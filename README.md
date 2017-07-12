@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hey guys!
+
+l'm lanzhiyu,l love java coding!
